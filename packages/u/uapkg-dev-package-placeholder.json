@@ -13,7 +13,7 @@
       },
       "releaseFiles": {
         "package": {
-          "url": "https://api.github.com/repos/maximdevoir/uapkg-dev-package-placeholder/releases/assets/466157977",
+          "url": "https://github.com/maximdevoir/uapkg-dev-package-placeholder/releases/download/v0.1.0/uapkg-dev-package-placeholder-0.1.0.tgz",
           "integrity": {
             "hash": "sha256:09aae3e5d9400c77eb9efa4b4f31bd6f4c48b58ae5a067d3b4cb4317672b2844",
             "size": 24802
