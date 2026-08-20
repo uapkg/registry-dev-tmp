@@ -2,7 +2,7 @@
   "name": "uapkg-dev-package-placeholder",
   "packageSource": {
     "type": "git",
-    "url": "https://github.com/maximdevoir/uapkg-dev-package-placeholder"
+    "url": "https://github.com/MaximDevoir/uapkg-dev-package-placeholder"
   },
   "versions": {
     "0.1.0": {
