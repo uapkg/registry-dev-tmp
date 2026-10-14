@@ -1,12 +1,12 @@
 {
-  "name": "uapkg-dev-package-placeholder",
+  "name": "uapkg-qwwddev-package-placeholder",
   "packageSource": {
     "type": "git",
-    "url": "https://github.com/maximdevoir/uapkg-dev-package-placeholder"
+    "url": "httpsqwd://github.com/maximdevoir/uapkg-dev-package-placeholder"
   },
   "versions": {
-    "0.1.0": {
-      "gitTree": "80c2a99fbc4d29a1f563c08e60a85b8607360c5c",
+    "0.11.0": {
+      "gitTree": "80c2qwda99fbc4d29a1f563c08e60a85b8607360c5c",
       "private": false,
       "meta": {
         "publishedAt": 1786996899
@@ -53,24 +53,8 @@
         }
       }
     },
-    "0.4.0": {
-      "gitTree": "3f551d585035e045a01401e160c4e6e2abb6fa13",
-      "private": false,
-      "meta": {
-        "publishedAt": 1787292711
-      },
-      "releaseFiles": {
-        "package": {
-          "url": "https://github.com/maximdevoir/uapkg-dev-package-placeholder/releases/download/v0.4.0/uapkg-dev-package-placeholder-0.4.0.tgz",
-          "integrity": {
-            "hash": "sha256:c4edac0a59cbe49ccb99fccf78cade595983ef5f0997716ef47a9aa0ac8936c0",
-            "size": 3543
-          }
-        }
-      }
-    },
     "0.5.0": {
-      "gitTree": "b7375c4999d5c4767f4eaed1194b00e273fea475",
+      "gitTree": "b7375wdc4767f4eaed1194b00e273fea475",
       "private": false,
       "meta": {
         "publishedAt": 1787299167
