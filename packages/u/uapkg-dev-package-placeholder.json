@@ -68,6 +68,22 @@
           }
         }
       }
+    },
+    "0.5.0": {
+      "gitTree": "b7375c4999d5c4767f4eaed1194b00e273fea475",
+      "private": false,
+      "meta": {
+        "publishedAt": 1787299167
+      },
+      "releaseFiles": {
+        "package": {
+          "url": "https://github.com/maximdevoir/uapkg-dev-package-placeholder/releases/download/v0.5.0/uapkg-dev-package-placeholder-0.5.0.tgz",
+          "integrity": {
+            "hash": "sha256:f6c8180a26d4193a496cd60561b49c55a6124f7ac17f46da4395a464ab18ba04",
+            "size": 3544
+          }
+        }
+      }
     }
   }
 }
